@@ -1,6 +1,6 @@
 {
   "name": "alfred-iban",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Alfred workflow to generate IBAN number",
   "license": "MIT",
   "repository": "prashantpalikhe/alfred-iban",
